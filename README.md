@@ -1,2 +1,4 @@
-# Bash-Script-
-This repository will contain activity for Bash Script in sprints BootCamp
+# AWS Restart Program Bootcamp From Sprints 
+
+This repository will contain All Activity for this bootcamp 
+

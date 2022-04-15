@@ -1,5 +1,6 @@
 ## install virtual environment
 
+<<<<<<< HEAD
 ```
     sudo apt install python3.8-venv
 
@@ -26,3 +27,10 @@
     
 ```
 
+=======
+
+```
+  python3 -m pip install --user virtualenv
+
+```
+>>>>>>> cdb574848caaa308251c5926b3ba68a0d5fd92bd
